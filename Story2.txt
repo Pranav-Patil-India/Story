@@ -1,1 +1,1 @@
-We are learning about GitHub.
+We are learning about GitHub. We created a local repo.
